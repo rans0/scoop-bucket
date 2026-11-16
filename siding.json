@@ -1,19 +1,19 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/rans0/siding/releases/download/v0.2.0/siding_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/rans0/siding/releases/download/v0.3.0/siding_0.3.0_windows_amd64.zip",
             "bin": [
                 "siding.exe"
             ],
-            "hash": "d66e35981365ecdd7b90e2fa45ffb66e76d3d0668a0ec71c5aff9ff11e7948be"
+            "hash": "30659b6af30d810357bc5d90ac3fef5b4cd907b0237576bb2add1624684f68ce"
         },
         "arm64": {
-            "url": "https://github.com/rans0/siding/releases/download/v0.2.0/siding_0.2.0_windows_arm64.zip",
+            "url": "https://github.com/rans0/siding/releases/download/v0.3.0/siding_0.3.0_windows_arm64.zip",
             "bin": [
                 "siding.exe"
             ],
-            "hash": "e8f8966154ab55ac379ecb878de499de86f4bfffe7717162e02b2f31db96fd6a"
+            "hash": "e50a6d49947d2b7743f3f301ca4edbcc0ff459383383f01f039fb569a1329bf7"
         }
     },
     "homepage": "https://github.com/rans0/siding",
